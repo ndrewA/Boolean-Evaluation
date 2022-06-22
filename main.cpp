@@ -93,7 +93,7 @@ int main() {
 }
 
 // TIME COMPLEXITY: O(3^n);
-// SPACE COMPLEXITY : o(n^2);
+// SPACE COMPLEXITY : o(n);
 // where n is the length of std::string str
 
 // PROBLEM:
